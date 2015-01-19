@@ -1,0 +1,2 @@
+chrI	test	CDS_parts	100	200	.	-	.	mRNA testName ; systematic_id "test_id" ; pseudo "_no_value" ; controlled_curation "term=warning, appears to be truncated; date=20091223" ; colour "13" ; gene "test" ; product "pseudogene malic acid transport protein" ; note "test" ; 
+chrI	test	CDS_parts	300	400	.	+	.	mRNA testName ; systematic_id "test_id" ; pseudo "_no_value" ; colour "13" ; gene "test" ; product "pseudogene" ; note "malic enzyme with 2 frameshifts" ; 

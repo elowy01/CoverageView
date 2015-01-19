@@ -1,0 +1,19 @@
+Package: CoverageView
+Type: Package
+Title: Coverage visualization package for R
+Version: 1.2.0
+Date: 2014-09-05
+Author: Ernesto Lowy
+Maintainer: Ernesto Lowy <ernestolowy@gmail.com>
+Description: This package provides a framework for the visualization of
+        genome coverage profiles. It can be used for ChIP-seq
+        experiments, but it can be also used for genome-wide nucleosome
+        positioning experiments or other experiment types where it is
+        important to have a framework in order to inspect how the
+        coverage distributed across the genome
+biocViews: Visualization,RNASeq,ChIPSeq,Sequencing,Technology,Software
+License: Artistic-2.0
+Depends: R (>= 2.10), methods,Rsamtools,rtracklayer
+Imports:
+        S4Vectors,IRanges,GenomicRanges,GenomicAlignments,parallel,tools
+Packaged: 2014-10-14 03:55:21 UTC; biocbuild
