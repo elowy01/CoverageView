@@ -1,0 +1,2 @@
+# CoverageView
+Bioconductor package
